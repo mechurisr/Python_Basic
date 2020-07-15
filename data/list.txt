@@ -1,0 +1,28 @@
+게임 - Game
+만화 - Cartoon
+방송 - Entertainment
+에니메 - Animation
+영화 - Movie
+음악 - Music
+출판 - Book
+콘텐츠 - Contents
+
+총괄 - General
+수출 및 수입액 현황 - Trade
+지역별 수출액 - Trade_Area
+해외 수출방식 - Trade_How
+해외 진출형태 - Trade_Type
+
+게임, 콘텐츠 - 매출액 현황 - Sales
+방송 - 프로그램 수출액 현황 - Trade_Program
+
+콘텐츠 - 수출액 규모 - Export
+콘텐츠 - 지역별 수출액 규모 - Export_Area
+콘텐츠 - 제작비용 - Making_Cost
+
+방한목적 - Korea_Why 	   - 컨텐츠의 영향이 어떤지
+한국선택 요인 - Korea_Choice  - 컨텐츠의 영향이 어떤지
+해외 거래 현황 - Korea_Trade
+
+
+entainment, movie - 표측 2개
